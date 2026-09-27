@@ -1,0 +1,13 @@
+{
+  "devices": {
+    "rp2350": {
+      "chip_id": "rp2350",
+      "package": null,
+      "partname": "rp2350",
+      "pin_count": 0,
+      "rows": []
+    }
+  },
+  "generated_at": "2026-09-17 23:30:52 UTC",
+  "source_xml": "rp/rp2350.xml"
+}
